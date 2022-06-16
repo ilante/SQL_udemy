@@ -77,7 +77,7 @@ brew services restart mysql
 - [x] Lesson 14
 - [x] Lesson 15
 - [x] Lesson 16
-- [] Lesson 17
+- [ ] Lesson 17
 - [] Lesson 18
 - [] Lesson 19
 - [] Lesson 20
