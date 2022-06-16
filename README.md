@@ -77,23 +77,23 @@ brew services restart mysql
 - [x] Lesson 14
 - [x] Lesson 15
 - [x] Lesson 16
-- [ ] Lesson 17
-- [] Lesson 18
-- [] Lesson 19
-- [] Lesson 20
-- [] Lesson 21
-- [] Lesson 22
-- [] Lesson 23
-- [] Lesson 24
-- [] Lesson 25
-- [] Lesson 26
-- [] Lesson 27
-- [] Lesson 28
-- [] Lesson 29
-- [] Lesson 30
-- [] Lesson 31
-- [] Lesson 32
-- [] Lesson 33
-- [] Lesson 34
-- [] Lesson 35
-- [] Lesson 36
+- [x] Lesson 17
+- [x] Lesson 18
+- [ ] Lesson 19
+- [ ] Lesson 20
+- [ ] Lesson 21
+- [ ] Lesson 22
+- [ ] Lesson 23
+- [ ] Lesson 24
+- [ ] Lesson 25
+- [ ] Lesson 26
+- [ ] Lesson 27
+- [ ] Lesson 28
+- [ ] Lesson 29
+- [ ] Lesson 30
+- [ ] Lesson 31
+- [ ] Lesson 32
+- [ ] Lesson 33
+- [ ] Lesson 34
+- [ ] Lesson 35
+- [ ] Lesson 36
