@@ -8,5 +8,5 @@ WHERE
     and
     i.film_id = f.film_id
 GROUP BY
-    f.film_id 
+    f.film_id -- you can group also by things that are not in the selcect clause
 ;
