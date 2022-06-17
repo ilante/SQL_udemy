@@ -61,6 +61,9 @@ brew services stop mysql
 brew services start mysql
 brew services restart mysql
 ```
+
+----------
+# Lesson checklist
 - [x] Lesson 1
 - [x] Lesson 2
 - [x] Lesson 3
@@ -79,9 +82,9 @@ brew services restart mysql
 - [x] Lesson 16
 - [x] Lesson 17
 - [x] Lesson 18
-- [ ] Lesson 19
-- [ ] Lesson 20
-- [ ] Lesson 21
+- [x] Lesson 19
+- [x] Lesson 20
+- [x] Lesson 21
 - [ ] Lesson 22
 - [ ] Lesson 23
 - [ ] Lesson 24
