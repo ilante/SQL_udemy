@@ -1,5 +1,7 @@
 # Repo for SQL course
 
+Used Beekeeper Studio ([Download here](https://www.beekeeperstudio.io/get)) because sequel-pro (brew) kept on crashing...
+
 # [Install MYSQL](https://database.guide/install-mysql-on-a-mac/)
 
 `brew install mysql`
