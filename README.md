@@ -85,13 +85,13 @@ brew services restart mysql
 - [x] Lesson 19
 - [x] Lesson 20
 - [x] Lesson 21
-- [ ] Lesson 22
-- [ ] Lesson 23
-- [ ] Lesson 24
-- [ ] Lesson 25
-- [ ] Lesson 26
-- [ ] Lesson 27
-- [ ] Lesson 28
+- [x] Lesson 22
+- [x] Lesson 23
+- [x] Lesson 24
+- [x] Lesson 25
+- [x] Lesson 26
+- [x] Lesson 27
+- [x] Lesson 28
 - [ ] Lesson 29
 - [ ] Lesson 30
 - [ ] Lesson 31
